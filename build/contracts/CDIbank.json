@@ -1,0 +1,113 @@
+{
+  "contractName": "CDIbank",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.8.0+commit.c7dfd78e\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"project:/contracts/CDIbank.sol\":\"CDIbank\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/CDIbank.sol\":{\"keccak256\":\"0x204652c6ca24d7a0df32fd5183a3d0505fd8dcf40b925e3f923107c5034dbba1\",\"license\":\"UNLICENSED\",\"urls\":[\"bzz-raw://12470ec7b055bea2942c396cbc6ca8e7642420c75f54ee603a72810c46b8a049\",\"dweb:/ipfs/QmfPGdV8wpafAfieZNpYpv58VmYcni2QZq9D48VkpS3hrb\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea26469706673582212206a6839fc22257d21b7bb2f496836f86bb7ca5cdcbc1f8294f834cdccfb285ec664736f6c63430008000033",
+  "deployedBytecode": "0x6080604052600080fdfea26469706673582212206a6839fc22257d21b7bb2f496836f86bb7ca5cdcbc1f8294f834cdccfb285ec664736f6c63430008000033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [],
+  "sourceMap": "66:21:1:-:0;;;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "66:21:1:-:0;;;;;",
+  "source": "//\"SPDX-License-Identifier: UNLICENSED\"\npragma solidity ^0.8.0;\n\n\ncontract CDIbank {\n\n}",
+  "sourcePath": "/Users/damiana/Documents/Coding Projects/ 2MBrody22/Bank/contracts/CDIbank.sol",
+  "ast": {
+    "absolutePath": "project:/contracts/CDIbank.sol",
+    "exportedSymbols": {
+      "CDIbank": [
+        500
+      ]
+    },
+    "id": 501,
+    "license": "UNLICENSED",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 499,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "40:23:1"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 500,
+        "linearizedBaseContracts": [
+          500
+        ],
+        "name": "CDIbank",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 501,
+        "src": "66:21:1"
+      }
+    ],
+    "src": "40:47:1"
+  },
+  "legacyAST": {
+    "absolutePath": "project:/contracts/CDIbank.sol",
+    "exportedSymbols": {
+      "CDIbank": [
+        500
+      ]
+    },
+    "id": 501,
+    "license": "UNLICENSED",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 499,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "40:23:1"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 500,
+        "linearizedBaseContracts": [
+          500
+        ],
+        "name": "CDIbank",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 501,
+        "src": "66:21:1"
+      }
+    ],
+    "src": "40:47:1"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.8.0+commit.c7dfd78e.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.4.1",
+  "updatedAt": "2021-07-25T11:44:06.660Z",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}
